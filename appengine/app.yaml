@@ -1,0 +1,10 @@
+# nombre del servicio a utilizar
+service: default
+
+# engine de vm 
+runtime: nodejs8
+
+headlers:
+  - url: /.*
+    secure: always
+    script: auto

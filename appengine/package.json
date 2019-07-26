@@ -4,8 +4,20 @@
   "description": "Cloud Students and Google Cloud Platform",
   "main": "app.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
   },
-  "author": "edvolution",
-  "license": "ISC"
+  "author": "Edvolution Labs",
+  "contributors": [
+    {
+       "name": "Pablo Rodriguez",
+       "email": "pablo@edvolution.io"
+    }
+  ],
+  "license": "UNLICENSED",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dateformat": "^3.0.3",
+    "express": "^4.17.1"
+  }
 }
