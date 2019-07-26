@@ -1,0 +1,21 @@
+{
+  "name": "csgcp-utn",
+  "version": "1.0.0",
+  "description": "Init tools",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pablogenesiswhat/csgcp-utn.git"
+  },
+  "author": "pablo@edvolution.io",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pablogenesiswhat/csgcp-utn/issues"
+  },
+  "homepage": "https://github.com/pablogenesiswhat/csgcp-utn#readme",
+  "devDependencies": {
+    "firebase-tools": "^7.2.1"
+  }
+}
