@@ -10,14 +10,15 @@
   "author": "Edvolution Labs",
   "contributors": [
     {
-       "name": "Pablo Rodriguez",
-       "email": "pablo@edvolution.io"
+      "name": "Pablo Rodriguez",
+      "email": "pablo@edvolution.io"
     }
   ],
   "license": "UNLICENSED",
   "dependencies": {
     "cors": "^2.8.5",
     "dateformat": "^3.0.3",
-    "express": "^4.17.1"
+    "express": "^4.17.1",
+    "firebase-admin": "^8.3.0"
   }
 }
